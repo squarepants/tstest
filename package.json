@@ -1,0 +1,17 @@
+{
+  "name": "tstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "awesome-typescript-loader": "^0.15.3",
+    "cyra": "^0.2.7",
+    "typescript": "^1.6.2",
+    "webpack": "^1.12.9"
+  }
+}
